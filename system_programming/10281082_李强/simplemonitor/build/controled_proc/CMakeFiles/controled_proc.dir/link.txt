@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/controled_proc.dir/controled_proc.c.o CMakeFiles/controled_proc.dir/main.c.o  -o ../bin/controled_proc -rdynamic ../simplelog/lib/libsimplelog.so -lpthread -Wl,-rpath,/home/dryland/system_programming/cmake/simplemonitor/build/simplelog/lib 

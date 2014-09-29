@@ -1,0 +1,4 @@
+/home/dryland/system_programming/cmake/simplemonitor/build/controled_proc/CMakeFiles/controled_proc.dir
+/home/dryland/system_programming/cmake/simplemonitor/build/simplelog/libsimplelog/CMakeFiles/libsimplelog.dir
+/home/dryland/system_programming/cmake/simplemonitor/build/CMakeFiles/simplemonitor.dir
+/home/dryland/system_programming/cmake/simplemonitor/build/simplelog/test/CMakeFiles/test.dir

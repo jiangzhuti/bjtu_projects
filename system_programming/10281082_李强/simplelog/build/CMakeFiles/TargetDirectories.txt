@@ -1,0 +1,2 @@
+/home/dryland/system_programming/cmake/simplelog/build/libsimplelog/CMakeFiles/libsimplelog.dir
+/home/dryland/system_programming/cmake/simplelog/build/test/CMakeFiles/test.dir

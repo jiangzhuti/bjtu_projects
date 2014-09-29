@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/test.dir/main.c.o  -o ../bin/test -rdynamic ../lib/libsimplelog.so -Wl,-rpath,/home/dryland/system_programming/cmake/simplemonitor/build/simplelog/lib 

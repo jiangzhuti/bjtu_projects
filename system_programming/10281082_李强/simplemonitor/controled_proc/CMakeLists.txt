@@ -1,0 +1,5 @@
+aux_source_directory(. CP_SRCS)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+add_executable(controled_proc ${CP_SRCS})
+target_link_libraries(controled_proc libsimplelog)
+target_link_libraries(controled_proc pthread)

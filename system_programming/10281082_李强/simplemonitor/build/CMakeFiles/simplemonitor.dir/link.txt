@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/simplemonitor.dir/monitor_client.c.o CMakeFiles/simplemonitor.dir/monitor_common.c.o CMakeFiles/simplemonitor.dir/main.c.o CMakeFiles/simplemonitor.dir/monitor_server.c.o  -o bin/simplemonitor -rdynamic simplelog/lib/libsimplelog.so -lpthread -Wl,-rpath,/home/dryland/system_programming/cmake/simplemonitor/build/simplelog/lib 

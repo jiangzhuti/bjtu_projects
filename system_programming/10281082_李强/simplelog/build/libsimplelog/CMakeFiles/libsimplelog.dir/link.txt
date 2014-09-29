@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,libsimplelog.so -o ../lib/libsimplelog.so CMakeFiles/libsimplelog.dir/libsimplelog.c.o CMakeFiles/libsimplelog.dir/log_func.c.o CMakeFiles/libsimplelog.dir/index_func.c.o 

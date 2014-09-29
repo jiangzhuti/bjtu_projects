@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dryland/system_programming/cmake/simplelog/test/../libsimplelog/libsimplelog.h
+
+/home/dryland/system_programming/cmake/simplelog/test/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+unistd.h
+-
+string.h
+-
+sys/wait.h
+-
+../libsimplelog/libsimplelog.h
+/home/dryland/system_programming/cmake/simplelog/test/../libsimplelog/libsimplelog.h
+
